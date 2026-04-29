@@ -1,0 +1,22 @@
+body {
+    width: 250px;
+    text-align: center;
+    font-family: Arial;
+}
+
+#container {
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* RED warning */
+.phishing {
+    background-color: #ff4d4d;
+    color: white;
+}
+
+/* GREEN safe */
+.safe {
+    background-color: #4CAF50;
+    color: white;
+}
